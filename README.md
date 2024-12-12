@@ -27,7 +27,7 @@ A simple and intuitive note-taking application built with **React + Vite**, **Ex
 
 Here is a preview of the system's current interface:
 
-![System Screenshot](client/scr/assets/screenshot.png)
+![System Screenshot](client/src/assets/screenshot.png)
 
 ## Instructions
 
