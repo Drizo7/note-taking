@@ -56,6 +56,7 @@ const sendPasswordEmail = async (email, password) => {
   }
 };
 
+//testing something here dont mind
 
 // Signup function
 const signup = async (req, res) => {
